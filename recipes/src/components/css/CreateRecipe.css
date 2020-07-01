@@ -1,0 +1,17 @@
+.form-container {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.ingredient-input {
+  width: 50%;
+}
+
+.addIngredientText {
+  cursor: pointer;
+}
+
+.justifyCenter {
+  align-self: center;
+}

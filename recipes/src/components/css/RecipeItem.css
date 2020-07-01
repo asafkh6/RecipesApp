@@ -1,0 +1,16 @@
+.box {
+  margin: 20px;
+  width: 60%;
+}
+
+.box div {
+  position: relative;
+}
+
+.box-content {
+  position: relative;
+}
+
+.details {
+  justify-self: flex-end;
+}

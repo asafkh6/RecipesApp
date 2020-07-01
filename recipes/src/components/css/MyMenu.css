@@ -1,0 +1,51 @@
+.mymenu-container {
+  position: relative;
+}
+
+.my-list {
+  /* position: relative; */
+
+  /* width: 30%; */
+  margin: 20px;
+  border: 0px;
+  border-right: 2px;
+  border-style: solid;
+  padding: 10px;
+}
+
+.picture {
+  height: 80px;
+  width: 80px;
+  /* display: inline; */
+}
+
+.content {
+  display: inline;
+}
+
+.schedule {
+  display: inline;
+  position: relative;
+}
+
+.scheduleBox {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.day-container {
+  display: inline-block;
+  flex-direction: column;
+  width: 30%;
+}
+
+.time-frame {
+  background-color: bisque;
+  border: 1px;
+  border-style: solid;
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 3px;
+  height: 200px;
+}
